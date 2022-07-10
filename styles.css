@@ -144,6 +144,7 @@ body, html{
 .social-menu ul li {
     list-style: none;
     margin: 0 10px;
+    padding: 50px;
 }
 .social-menu ul li .fa {
     color: #000000;
@@ -185,7 +186,7 @@ body, html{
 }
 
 .Footer {
-    padding-top: 60px;
+    padding-top: 50px;
     width: 100%;
     height: 120px;
     display: flex;
