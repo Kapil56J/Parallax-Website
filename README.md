@@ -1,6 +1,39 @@
-# Parallax-Website
+# Parallax Scrolling Effect Website
 
-Welcome in new Project Repository of Parallax Scrolling Website of Seven Wonders of the world.
+This is a Project soltion to the Parallax Scrolling Effect.
+As most of my work, this solution is being coinstantly updated as i learn new things and find better soltuions for my problems, so please take this into consideration. :)
+
+
+
+## Table of Contents
+* Overview
+    * [The Challange](#overview)
+    * [Links](#links)
+
+* My Process
+    * [Built with](#my-process-to-build-this-project)
+    * [Continued Devlopement](#continued-development)
+* [Author](#authors)
+## Overview
+
+* The Challange
+
+
+Users Should be able to:
+
+* see the Parallax Scrolling Effect with images
+* See hover states for interactive elements
+
+
+
+## Links
+
+Netifly Host Link:
+
+
+
+## My Process to build this project
+
 
 In this section we are going to discuss about what is Parallax Scrolling Website and how its work. Also we will take a closer look at all the difficulties I faced while creating this project.
 
@@ -23,6 +56,27 @@ Parallax scrolling uses a variety of media files and CSS shapes to create a sens
 3) Play with color:
 
 Parallax Scrolling isnt just about the images in the background and foreground, but about color, too. You might use more desaturated tones in the background more lively colors in the foreground to create an even greater sense of depth.
+
+
+
+
+
+
+## Build with
+
+* Semantic HTML5 markup
+* CSS custom properties
+
+
+## Continued Development
+
+Will do more of these projects to improve my skills.
+## Authors
+
+- [Instagram](https://www.instagram.com/i_am_kapildj/?hl=en)
+- [Github](https://github.com/Kapil56J/3-Column-Preview-Component)
+
+
 
 
 
